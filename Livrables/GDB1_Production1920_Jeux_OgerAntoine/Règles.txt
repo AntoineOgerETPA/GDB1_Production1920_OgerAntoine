@@ -1,0 +1,10 @@
+Règles : 
+
+Jeu 1: 
+Le but est d'arroser toutes les plantes seches(terre beige) a l'aide de la souris. 
+
+Jeu 2: 
+Le but est d'éviter les obstacles sur al route a l'aide des flèches diréctionnel de droite et gauche.
+
+Jeu 3:
+Le but est de trier les objets présent sur le tapis roulant le plus vite possible a l'aide de la souris. 
